@@ -1,0 +1,1 @@
+SELECT * FROM globalsuperstore.orders_view;
